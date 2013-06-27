@@ -4,15 +4,15 @@ A library of useful cryptography functions missing from the core Java API.
 
 Installation
 -----------
-Simply pull or fork the [java-crypto](/mrdowden/java-crypto) repository on GitHub and either build a Jar or include in your own source folder.
+Simply pull or fork the java-crypto repository on GitHub and either build a Jar or include in your own source folder.
 
 Help & Contribution
 -----------------
-Each component of the library should document both the specifcation they implement and proper usage of the component. If you need help, found a bug, or would like to contribute to the project please contact @mrdowden on GitHub or Twitter.
+Each component of the library should document both the specifcation they implement and proper usage of the component. If you need help, found a bug, or would like to contribute to the project please contact mrdowden on GitHub or Twitter.
 
 Contributors
 -----------
-Michael Dowden, Tekyn, @mrdowden
+Michael Dowden, Tekyn, [@mrdowden](https://twitter.com/mrdowden)
 
 Credits
 ------
